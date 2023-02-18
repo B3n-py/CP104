@@ -1,0 +1,51 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Benjamin Geminiuc
+ID:      169033951
+Email:   gemi3951@mylaurier.ca
+Version: 2022-10-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+The book title is, "Learn Python in 21 Days"
+What's mine is mine, and what's yours is mine
+You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Favourite Pizza gino's
+Favourite movie truth or dare
+I like to eat gino's while watching truth or dare
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+enter length68
+
+length in inches: 68
+
+length in m: 1.7271999999999998
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of pizza1.95
+Amount of pizza3
+total cost of 3 pizza slices is 5.85
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+principle5000
+interest0.05
+years10
+compound21
+8238.708675295444

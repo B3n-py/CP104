@@ -1,0 +1,47 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Benjamin Geminiuc
+ID:      169033951
+Email:   gemi3951@mylaurier.ca
+Version: 2022-11-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+25
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+0.0 6.1 13.8 3.45
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an Expense (0 to quit): 150
+Enter another Expense (0 to quit): 23
+Enter another Expense (0 to quit): 12
+Enter another Expense (0 to quit): 15
+Enter another Expense (0 to quit): 37.5
+Enter another Expense (0 to quit): 65
+Enter another Expense (0 to quit): 0
+(302.5, -102.5, 'deficit')
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter value between 0 and 100: 110
+value entered is too high
+Enter value between 0 and 100: -10
+value entered is too low
+Enter value between 0 and 100: 75
+75.0
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+-3.4 5.3 8.9 1.78
